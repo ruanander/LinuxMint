@@ -1,0 +1,41 @@
+Objetivo da aula de hoje: 19/11/2025 CONTINUAÇÃO DA AULA DE: 12/11/2025 - LINUX MINT
+
+#01_ Se autenticar com a sua conta no Github no Windows (desktop senac) e também no Linux Mint.
+
+#02_ Material das aulas de GNU/Linux Desktop
+https://github.com/vaamonde/dell-linuxmint
+
+#03_ Material das aulas na Rede SENAC-TAT
+T:\Publica\!!!!!!!RobsonVaamonde\LinuxMint
+
+#04_ Material Extra de Estudos de GNU/Linux
+a) Guia Foca: https://guiafoca.org/
+b) SS64: https://ss64.com/
+c) Aurelio: https://aurelio.net/
+d) DistroWatch: https://distrowatch.com/
+e) LPI: https://learning.lpi.org/pt/
+
+#04_ ANTES DE INICIAR, FAZER UMA ATUALIZAÇÃO COMPLETA DO LINUX MINT, PODE SER UTILIZANDO O MINTUPDATE (MODO GRÁFICO) OU POR LINHA DE COMANDO NO TERMINAL USANDO: APT.
+
+Desafio das etapas: utilizar o diretório: imagens no seu Repositório (Local ou Remoto), printar as principais telas de configuração dos procedimentos executados nessa aula.
+
+#05_ Criando Usuários no Linux Mint
+Usuário padrão: Sem direitos administrativos
+Usuário administrador: Com direitos administrativos
+
+#06_ Conhecendo as opções de Configurações do Sistema do Linux Mint
+
+#07_ Personalização da Tela de Login (Janela de Início de Sessão) do Linux Mint
+
+#08_ Personalização da Área de Trabalho do Linux Mint
+a) Adicionando Applets na Barra de Tarefas, 
+b) Adicionando Desklets na Área de Trabalho, 
+c) Alterar o Plano de Fundo, 
+d) Instalar Temas, 
+f) Detalhes da Conta (Adicionar sua Foto).
+
+#09_ Adicionando um novo Kernel mais novo.
+
+Pesquisar: O que é e para que serve o Kernel
+Pesquisar: O que é e para que serve o OEM
+Pesquisar: O que é e para que serve o Kernel-OEM

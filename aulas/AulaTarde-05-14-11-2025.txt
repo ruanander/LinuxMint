@@ -1,0 +1,18 @@
+Objetivo da aula de hoje: 14/11/2025 SEXTOUUUUU!!!!!!!! DESAFIO
+
+#01_ Pesquisar sobre o Ubuntu Linux Desktop 24.04
+
+#02_ Pesquisar sobre o Manjaro Linux Desktop 25.10
+
+#03_ Pesquisar sobre o Projeto Distrosea.com 
+
+#04_ Copiar as ISO's da rede para a Unidade D:\ISO (DICA UMA ISO DE CADA VEZ)
+T:\Publica\!!!!!!!RobsonVaamonde\LinuxMint-TARDE\desafio
+
+#05_ Criar um procedimento de como instalar as Distribuições GNU/Linux no seu Github.
+
+#06_ Criar a máquina Virtual do Ubuntu Desktop, fazer sua instalação, atualização, instalar os convidados do VirtualBOX e instalar 02 (dois) navegadores, Visual Studio Code e WPS Office.
+
+#07_ Criar a máquina Virtual do Manjaro Desktop, fazer sua instalação, atualização, não precisa instalar os convidados do VirtualBOX e instalar 02 (dois) navegadores, Visual Studio Code e (SE CONSEGUIR) o WPS Office.
+
+#08_ Printar as Telas do Ubuntu Desktop e do Manjaro Desktop e salvar no seu Github
